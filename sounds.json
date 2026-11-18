@@ -109,20 +109,20 @@
   },
   {
     "name": "And One!",
-    "file": "",
+    "file": "and-one.mp3",
     "category": "Crowd",
     "play": "F",
     "stop": "",
-    "placeholder": true,
+    "placeholder": false,
     "loop": false
   },
   {
     "name": "Rejected!",
-    "file": "",
+    "file": "rejected.mp3",
     "category": "Crowd",
     "play": "G",
     "stop": "",
-    "placeholder": true,
+    "placeholder": false,
     "loop": false
   },
   {
